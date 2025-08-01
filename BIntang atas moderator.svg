@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 20.67 22.34">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#outer-glow-1);
+      }
+
+      .cls-2 {
+        fill: #fdd896;
+      }
+    </style>
+    <filter id="outer-glow-1" x="-273.18" y="-273.32" width="568" height="570" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="91.04"/>
+      <feFlood flood-color="#ffbe3b" flood-opacity=".34"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g class="cls-1">
+      <path class="cls-2" d="M9,18.11h0c0-3.69-2.99-6.67-6.67-6.67h0c3.69,0,6.67-2.99,6.67-6.67h0c0,3.69,2.99,6.67,6.67,6.67h0c-3.69,0-6.67,2.99-6.67,6.67Z"/>
+      <path class="cls-2" d="M16.42,8.49h0c0-2.34-1.9-4.24-4.24-4.24h0c2.34,0,4.24-1.9,4.24-4.24h0c0,2.34,1.9,4.24,4.24,4.24h0c-2.34,0-4.24,1.9-4.24,4.24Z"/>
+      <rect class="cls-2" x="15.52" y="12.34" width="4.76" height="4.76" rx="2.38" ry="2.38"/>
+      <rect class="cls-2" x="0" y="6.53" width="3.98" height="3.98" rx="1.99" ry="1.99"/>
+      <rect class="cls-2" x="5.63" y="18.36" width="3.98" height="3.98" rx="1.99" ry="1.99"/>
+    </g>
+  </g>
+</svg>
